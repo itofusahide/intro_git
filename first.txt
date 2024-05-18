@@ -2,5 +2,5 @@
 変更します
 
 git status
-
+git diff
 
